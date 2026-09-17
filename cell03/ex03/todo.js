@@ -26,6 +26,7 @@ function createTaskElement() {
                 deleteCookie(this.id);
                 location.reload();
             }
+            
         };
         taskList.appendChild(taskEl);
         }
