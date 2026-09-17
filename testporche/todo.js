@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
         }
+        
     };
 
     // Save the TODO list to cookies
